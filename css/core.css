@@ -55,7 +55,6 @@ blockquote:before, blockquote:after, q:before, q:after {
 }
 [type='color'],
 [type='date'],
-[type='datetime'],
 [type='datetime-local'],
 [type='email'],
 [type='month'],
