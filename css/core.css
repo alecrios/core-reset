@@ -1,4 +1,4 @@
-/* core.css v1.0 | MIT License | corecss.io */
+/* core.css v1.1 | MIT License | corecss.io */
 html {
 	font-family: sans-serif;
 	font-size: 100%;
@@ -75,10 +75,10 @@ textarea {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 }
-::-webkit-input-placeholder {color: rgba(0,0,0,.5);}
-:-moz-placeholder {color: rgba(0,0,0,.5);}
-::-moz-placeholder {color: rgba(0,0,0,.5); opacity: 1;}
-:-ms-input-placeholder {color: rgba(0,0,0,.5);}
+::-webkit-input-placeholder {color: #777;}
+:-moz-placeholder {color: #777;}
+::-moz-placeholder {color: #777; opacity: 1;}
+:-ms-input-placeholder {color: #777;}
 [type='reset'],
 [type='submit'],
 [type='button'],
