@@ -1,6 +1,6 @@
 # CoreCSS
 
-CoreCSS is a lightweight starting point for building responsive websites. It weighs under 1.3kb, minified and gzipped. There are no pre-styled elements or animations built-in – just a reset and a grid system. This is a framework for people who don't need all the features of larger frameworks and just want to build systematically from the ground up. Feel free to take this and customize it so that you can work the way you want to work.
+CoreCSS is a lightweight starting point for building responsive websites. It weighs under 1.2kb, minified and gzipped. There are no pre-styled elements or animations built-in – just a reset and a grid system. This is a framework for people who don't need all the features of larger frameworks and just want to build systematically from the ground up. Feel free to take this and customize it so that you can work the way you want to work.
 
 &nbsp;
 
