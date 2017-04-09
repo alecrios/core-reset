@@ -10,15 +10,15 @@ The goal is to reduce all elements to their most basic, unopinionated forms so t
 
 ### Reset Features
 
-	* Intuitive box-sizing
-	* System font stack by default
-	* Zeroed-out margin and padding
-	* Cross-browser normalization
-	* Nonarbitrary values throughout
-		* `font-size: 100%`, `line-height: 1`
-		* `font-weight: normal`, `font-style: normal`
-		* `color: #000`, `background: transparent`
-		* `border: 1px solid #000`, `border-radius: 0`
+* Intuitive box-sizing
+* System font stack by default
+* Zeroed-out margin and padding
+* Cross-browser normalization
+* Nonarbitrary values throughout
+	* `font-size: 100%`, `line-height: 1`
+	* `font-weight: normal`, `font-style: normal`
+	* `color: #000`, `background: transparent`
+	* `border: 1px solid #000`, `border-radius: 0`
 
 &nbsp;
 
@@ -28,16 +28,16 @@ Dead-simple responsive grid system. The columns are float-based, and the rows ar
 
 ### Grid Features
 
-	* Rows
-		* Full-width and centered by default
-		* Max-width helper classes
-		* Alignment helper classes
-	* Columns
-		* Full-width and left-aligned by default
-		* Responsive-width helper classes
-		* Visibility helper classes
-	* Nonarbitrary style and behavior
-		* No margins/padding/gutters
-		* Infinite nesting
-		* No `.container` necessary
-		* Breakpoints at 256px intervals
+* Rows
+	* Full-width and centered by default
+	* Max-width helper classes
+	* Alignment helper classes
+* Columns
+	* Full-width and left-aligned by default
+	* Responsive-width helper classes
+	* Visibility helper classes
+* Nonarbitrary style and behavior
+	* No margins/padding/gutters
+	* Infinite nesting
+	* No `.container` necessary
+	* Breakpoints at 256px intervals
