@@ -20,6 +20,8 @@ The goal is to reduce all elements to their most basic, unopinionated forms so t
 	* `color: #000`, `background: transparent`
 	* `border: 1px solid #000`, `border-radius: 0`
 
+### [Reset Demo](http://corecss.io/demo-reset)
+
 &nbsp;
 
 ## Grid
@@ -41,3 +43,5 @@ Dead-simple responsive grid system. The columns are float-based, and the rows ar
 	* Infinite nesting
 	* No `.container` necessary
 	* Breakpoints at 256px intervals
+
+### [Grid Demo](http://corecss.io/demo-grid)
