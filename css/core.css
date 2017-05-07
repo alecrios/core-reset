@@ -1,5 +1,5 @@
 /* =============================================================================
-Core CSS v2.0.1 | MIT License | https://github.com/alecrios/core-css
+Core CSS v2.0.2 | MIT License | https://github.com/alecrios/core-css
 ============================================================================= */
 
 /* Reset
@@ -18,7 +18,9 @@ html {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
 	box-sizing: inherit;
 	margin: 0;
 	padding: 0;
@@ -34,7 +36,12 @@ html {
 
 /* Media */
 
-audio, canvas, iframe, img, svg, video {
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
 	vertical-align: middle;
 }
 
@@ -53,7 +60,8 @@ a {
 
 /* Lists */
 
-ol, ul {
+ol,
+ul {
 	list-style: none;
 }
 
@@ -65,15 +73,51 @@ hr {
 
 /* Form Elements */
 
-input:not([type='checkbox']):not([type='radio']),
-select, textarea, button {
+[type='button'],
+[type='color'],
+[type='date'],
+[type='datetime-local'],
+[type='email'],
+[type='file'],
+[type='month'],
+[type='number'],
+[type='password'],
+[type='range'],
+[type='reset'],
+[type='search'],
+[type='submit'],
+[type='tel'],
+[type='text'],
+[type='time'],
+[type='url'],
+[type='week'],
+select,
+textarea,
+button {
 	display: block;
 	width: 100%;
 	max-width: 100%;
 }
 
-input:not([type='checkbox']):not([type='file']):not([type='radio']):not([type='range']),
-select, textarea, button {
+[type='button'],
+[type='color'],
+[type='date'],
+[type='datetime-local'],
+[type='email'],
+[type='month'],
+[type='number'],
+[type='password'],
+[type='reset'],
+[type='search'],
+[type='submit'],
+[type='tel'],
+[type='text'],
+[type='time'],
+[type='url'],
+[type='week'],
+select,
+textarea,
+button {
 	border: 1px solid #000;
 	border-radius: 0;
 	-webkit-appearance: none;
@@ -81,13 +125,16 @@ select, textarea, button {
 }
 
 ::-webkit-input-placeholder {color: #7f7f7f;}
-:-moz-placeholder {color: #7f7f7f;}
-::-moz-placeholder {color: #7f7f7f; opacity: 1;}
-:-ms-input-placeholder {color: #7f7f7f;}
+:-moz-placeholder           {color: #7f7f7f;}
+::-moz-placeholder          {color: #7f7f7f; opacity: 1;}
+:-ms-input-placeholder      {color: #7f7f7f;}
 
 /* Table Elements */
 
-table, tr, th, td {
+table,
+tr,
+th,
+td {
 	border: 1px solid #000;
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -105,7 +152,8 @@ table, tr, th, td {
 	clear: both;
 }
 
-.row:before, .row:after {
+.row:before,
+.row:after {
 	content: ' ';
 	display: table;
 	clear: both;
