@@ -54,7 +54,7 @@ img {
 /* Links */
 
 a {
-	color: #000;
+	color: currentColor;
 	text-decoration: none;
 }
 
