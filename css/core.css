@@ -107,7 +107,6 @@ table,
 tr,
 th,
 td {
-	border: 1px solid #000;
 	border-collapse: collapse;
 	border-spacing: 0;
 }
