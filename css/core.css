@@ -36,15 +36,6 @@ html {
 
 /* Media */
 
-audio,
-canvas,
-iframe,
-img,
-svg,
-video {
-	vertical-align: middle;
-}
-
 img {
 	max-width: 100%;
 	height: auto;
