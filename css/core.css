@@ -88,7 +88,6 @@ ul {
 select,
 textarea,
 button {
-	max-width: 100%;
 	border-radius: 0;
 	-webkit-appearance: none;
 	-moz-appearance: none;
