@@ -91,37 +91,15 @@ button {
 	display: block;
 	width: 100%;
 	max-width: 100%;
-}
-
-[type='button'],
-[type='color'],
-[type='date'],
-[type='datetime-local'],
-[type='email'],
-[type='month'],
-[type='number'],
-[type='password'],
-[type='reset'],
-[type='search'],
-[type='submit'],
-[type='tel'],
-[type='text'],
-[type='time'],
-[type='url'],
-[type='week'],
-select,
-textarea,
-button {
-	border: 1px solid #000;
 	border-radius: 0;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 }
 
-::-webkit-input-placeholder {color: #7f7f7f;}
-:-moz-placeholder           {color: #7f7f7f;}
-::-moz-placeholder          {color: #7f7f7f; opacity: 1;}
-:-ms-input-placeholder      {color: #7f7f7f;}
+::-webkit-input-placeholder {color: currentColor; opacity: .5;}
+:-moz-placeholder           {color: currentColor; opacity: .5;}
+::-moz-placeholder          {color: currentColor; opacity: .5;}
+:-ms-input-placeholder      {color: currentColor; opacity: .5;}
 
 /* Table Elements */
 
