@@ -17,8 +17,8 @@ The goal is to reduce all elements to their most basic, unopinionated forms so t
 * Nonarbitrary values throughout
 	* `font-size: 100%`, `line-height: 1`
 	* `font-weight: normal`, `font-style: normal`
-	* `color: #000`, `background: transparent`
-	* `border: 1px solid #000`, `border-radius: 0`
+	* `color: currentColor`, `background: transparent`
+	* `border: 0`, `border-radius: 0`
 
 ### [Reset Demo](http://corecss.io/demo-reset)
 
