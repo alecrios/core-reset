@@ -1,0 +1,23 @@
+{
+  "name": "core-reset",
+  "version": "4.0.0",
+  "description": "A CSS reset that reduces all elements to their most basic forms",
+   "keywords": [
+    "css",
+    "reset"
+  ],
+  "main": "core-reset.css",
+  "files": [
+    "core-reset.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecrios/core-reset.git"
+  },
+  "author": "Alec Rios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alecrios/core-reset/issues"
+  },
+  "homepage": "https://github.com/alecrios/core-reset#readme"
+}
