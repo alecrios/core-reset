@@ -15,5 +15,5 @@ CSS normalization is important to reduce inconsistencies between browsers. Howev
 ## Installation
 
 ```
-npm install --save core-reset
+npm install core-reset
 ```
