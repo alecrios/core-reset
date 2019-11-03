@@ -1,8 +1,8 @@
 {
   "name": "core-reset",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "A CSS reset that reduces all elements to their most basic forms",
-   "keywords": [
+  "keywords": [
     "css",
     "reset"
   ],
