@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.0.1
+
+### Changed
+
+* Changed pseudo-element selector syntax, i.e. `:before` to `::before`
+
 ## 4.0.0
 
 ### Added
